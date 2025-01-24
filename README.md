@@ -7,6 +7,7 @@
 - `problem solved`：记录了已经完成的题目
 
 - `learning method`：记录了总结的学习方法
+- `CSDN学习资料`：记录了从CSDN上获取的资源
 
 **找到我**​​
 
